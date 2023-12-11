@@ -45,3 +45,11 @@ Before running this project, ensure you have the following installed:
 ## Note
 - Ensure all file paths (for the dataset, model saving, and model loading) are correctly set up according to your system's directory structure.
 - It's crucial to run the collab Notebook before running the Flask application, as the model needs to be trained and saved first.
+
+## Demo
+
+https://github.com/Meghana1999/imdb_review_text_classification/assets/40660074/864cb4cc-2f8d-4431-82da-fe096307f3ba
+
+
+
+  
